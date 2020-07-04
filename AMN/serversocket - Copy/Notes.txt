@@ -1,0 +1,20 @@
+
+Problem 1: original excel file from the device software is protected, so I really cant read the data from it,
+or I dont know how it,
+
+Solution: Opened the protected file and copy the data in the new excel file and then read from there
+
+
+PRoblem 2= sms commands not read by the device, 
+solution = SIM at initialization is in the off state so I have to turn it on using AT Commads
+AT+CFUN=1 for ON
+AT+CFUN=0 for OFF
+
+AT+CSCA = <String> service center no
+AT+CMGF=1
+AT+CMGS= "cell no"
+> (ctrl+z)
+
+"CARD ID : 5Device ID : 20Waqas12/30/1899 1:43:00 PM3/19/2014 12:00:00 AMPENDING3335288676"
+
+pPIQPEvUxt4H2nA55tbosQ==

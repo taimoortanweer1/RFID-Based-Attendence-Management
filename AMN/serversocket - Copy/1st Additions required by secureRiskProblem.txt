@@ -1,0 +1,33 @@
+1- Message Format + Character count to be shown 
+Status : Done
+How : see GUI 
+
+2. Close all instantantiations before Initialization
+Status : DONE
+HOW : by closing the process on pressing exit button so next time its obvious all the process 
+are closed
+
+
+
+3. Entry Exit Different (using one RFID Device)
+Status : done
+HOW : 
+
+4. Automatic Opening and Closing of Dlink Application
+Status : PENDING
+
+5. Auto Connection RFID/GSM at form LOAD
+Status : PENDING
+
+6. dynamic tables creation in database for each day
+
+
+Problem Identified by myself:
+
+IP configuration Saved IPs
+Status : DONE
+
+Wrong Count of RFID devices Added
+Status : DONE
+How : Using count_client check before updating UI
+
